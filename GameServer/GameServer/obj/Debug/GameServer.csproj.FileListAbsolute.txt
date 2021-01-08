@@ -1,0 +1,7 @@
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\jason\Desktop\TonghouCard\Server\GameServer\GameServer\obj\Debug\GameServer.pdb
